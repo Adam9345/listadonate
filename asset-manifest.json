@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/listadonate/static/css/main.7bab6bd3.chunk.css",
-    "main.js": "/listadonate/static/js/main.c9a340f5.chunk.js",
-    "main.js.map": "/listadonate/static/js/main.c9a340f5.chunk.js.map",
+    "main.css": "/listadonate/static/css/main.a2ec8236.chunk.css",
+    "main.js": "/listadonate/static/js/main.4cc77a4d.chunk.js",
+    "main.js.map": "/listadonate/static/js/main.4cc77a4d.chunk.js.map",
     "runtime~main.js": "/listadonate/static/js/runtime~main.d7e8755d.js",
     "runtime~main.js.map": "/listadonate/static/js/runtime~main.d7e8755d.js.map",
     "static/js/2.20b3ae07.chunk.js": "/listadonate/static/js/2.20b3ae07.chunk.js",
     "static/js/2.20b3ae07.chunk.js.map": "/listadonate/static/js/2.20b3ae07.chunk.js.map",
     "index.html": "/listadonate/index.html",
-    "precache-manifest.cdf98c7215a711d105d780c1b76a3ca0.js": "/listadonate/precache-manifest.cdf98c7215a711d105d780c1b76a3ca0.js",
+    "precache-manifest.cf044d845dd7a0e28e000b3be8c916a3.js": "/listadonate/precache-manifest.cf044d845dd7a0e28e000b3be8c916a3.js",
     "service-worker.js": "/listadonate/service-worker.js",
-    "static/css/main.7bab6bd3.chunk.css.map": "/listadonate/static/css/main.7bab6bd3.chunk.css.map"
+    "static/css/main.a2ec8236.chunk.css.map": "/listadonate/static/css/main.a2ec8236.chunk.css.map"
   }
 }
