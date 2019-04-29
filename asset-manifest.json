@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/listadonate/static/css/main.b21afb43.chunk.css",
-    "main.js": "/listadonate/static/js/main.8068b367.chunk.js",
-    "main.js.map": "/listadonate/static/js/main.8068b367.chunk.js.map",
+    "main.js": "/listadonate/static/js/main.57088da9.chunk.js",
+    "main.js.map": "/listadonate/static/js/main.57088da9.chunk.js.map",
     "runtime~main.js": "/listadonate/static/js/runtime~main.d7e8755d.js",
     "runtime~main.js.map": "/listadonate/static/js/runtime~main.d7e8755d.js.map",
     "static/js/2.20b3ae07.chunk.js": "/listadonate/static/js/2.20b3ae07.chunk.js",
     "static/js/2.20b3ae07.chunk.js.map": "/listadonate/static/js/2.20b3ae07.chunk.js.map",
     "index.html": "/listadonate/index.html",
-    "precache-manifest.327ecbcadd615f823244feb82e592287.js": "/listadonate/precache-manifest.327ecbcadd615f823244feb82e592287.js",
+    "precache-manifest.b2dd806c7c87fb225244909d818dd95e.js": "/listadonate/precache-manifest.b2dd806c7c87fb225244909d818dd95e.js",
     "service-worker.js": "/listadonate/service-worker.js",
     "static/css/main.b21afb43.chunk.css.map": "/listadonate/static/css/main.b21afb43.chunk.css.map"
   }
